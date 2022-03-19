@@ -68,9 +68,9 @@ function xyz() {
 function wwe({ name, work }) {
   return (
     <div>
-      <h1>Name is :- {name}</h1>
-      <p>Work is :- {work}</p>
-    </div>
+//       <h1>Name is :- {name}</h1>
+//       <p>Work is :- {work}</p>
+//     </div>
   );
 }
 
